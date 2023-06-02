@@ -3,7 +3,7 @@
  👋 Hi, I’m Ryan Krohne
 </h1>
 <p align="center">
-  Aspiring Software Engineer
+  **Aspiring Software Engineer**
   </p>
   
 - 🌱 I’m currently learning React and Angular
