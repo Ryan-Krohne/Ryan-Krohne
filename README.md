@@ -6,7 +6,7 @@
   Aspiring Software Engineer
   </p>
   
-- 🌱 I’m currently learning AWS, FullStack Development
+- 🌱 I’m currently learning React and Angular
 
 - 📫 Feel free to contact me at rkrohnesoccer@gmail.com
 
