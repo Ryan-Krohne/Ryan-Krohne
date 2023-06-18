@@ -2,7 +2,7 @@
 
 **`Future Software Engineer`**
 
-I'm a college student heading into the field of software engineering. While I am not a computer science major, the Information Technology degree has key fundamental required to be a software engineer, such as mathematical skills, knowledge of networking, an Object Oriented language, and Data Structure and Algorithms.s.
+I'm a college student heading into the field of software engineering. While I am not a computer science major, the Information Technology degree has key fundamental required to be a software engineer, such as mathematical skills, knowledge of networking, an Object Oriented language, and Data Structure and Algorithms.
 
 ---
 
