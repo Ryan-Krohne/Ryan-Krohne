@@ -5,7 +5,8 @@
 Hi! I'm a college student heading into the field of software engineering. While I am not a computer science major, the Information Technology degree I am pursuing has taught me key fundamental relevant to the software engineering world. These include Object Oriented Programming, SQL, and various programming languages.
 
 
-**`Currently working on:`**
+
+### Currently working on:
 * Saving the planet
 * Practicing my DSA's
 * Getting a better understanding of system design
