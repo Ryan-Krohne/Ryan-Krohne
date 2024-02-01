@@ -1,8 +1,15 @@
 # 🏄‍♂️ Ryan Krohne
 
-**`Future Software Engineer`**
+**`About Me`**
 
-I'm a college student heading into the field of software engineering. While I am not a computer science major, the Information Technology degree I am pursuing has taught me key fundamental relevant to the software engineering world. These include Object Oriented Programming, SQL, and various programming languages.
+Hi! I'm a college student heading into the field of software engineering. While I am not a computer science major, the Information Technology degree I am pursuing has taught me key fundamental relevant to the software engineering world. These include Object Oriented Programming, SQL, and various programming languages.
+
+
+**`Currently working on:`**
+* Saving the planet
+* Practicing my DSA's
+* Getting a better understanding of system design
+
 
 ---
 
@@ -19,7 +26,9 @@ I'm a college student heading into the field of software engineering. While I am
 
 
 <details>
- <summary><h3>👨‍💻 Ryan's Coding Journey</h3></summary>
-   I started my coding journey as a naive Information Technology student with a passion to learn everything I could about technology. I built a computer in higschool, and I loved using and interacting with technology. At the time, I did not know what degree to pursue, so I chose an Information Technology degree because it was broad and could help me understand where my passion would be. My degree showed my I had no desire to do any sort of physical work, and slowly, my passion for programming started to emerge. Currenlty, I know several software engineer that have worked at Disney, Amazon, or similary companies and hearing the work they do inspires me to be a better software engineer. I currently have a strong understanding of Python, and MySQL through my college courses, and I am teaching myself the rest in order to be a good software engineer.
+ <summary><h3>👨‍💻 Ryan's Coding Journey (Click here to expand!)</h3></summary>
+   I started my coding journey in my teens when I was introduced to scratch. At the time I thought it was cool but didn't make a connection to how coding impacted the real world. When I first got in to college, I naively decided to pursue a degree in Information Technology, as I was completely unaware of what I wanted to do with my life. Fortunately, college was when I was re-introduced to software development. Currently, I find myself highly motivated by considering the difference I make in the real world - something that's hard to see if you only think of software development as working on stories and completing pull requests.
+ 
+ 
 
 </details>
