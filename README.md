@@ -18,8 +18,6 @@ Hi! I'm a college student heading into the field of software engineering. While 
 
 Reach me at: rkrohnesoccer@gmail.com
 
-
-
 ---
 
 ### 🧰 Languages and Tools
