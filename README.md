@@ -18,6 +18,9 @@ Hi! I'm a college student heading into the field of software engineering. While 
 
 Reach me at: rkrohnesoccer@gmail.com
 
+[//]: # (Comment: Post your resume as a google drive link and post it below your email. Just fill in google drive link in the href.)
+[//]: # (Code: - 📄 Check out my <a href="" target="blank">Resume</a>)
+
 ---
 
 ### 🧰 Languages and Tools
