@@ -1,12 +1,11 @@
 # 🏄‍♂️ <a href="https://www.linkedin.com/in/ryankrohne" >Ryan Krohne</a>
 
 
-**`About Me`**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryankrohne)
 
 Hi! I'm a college student heading into the field of software engineering. While I am not a computer science major, the Information Technology degree I am pursuing has taught me key fundamental relevant to the software engineering world. These include Object Oriented Programming, SQL, and various programming languages.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryankrohne)
 
 <img align="right" alt="GIF" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="408" height="318" />
   
