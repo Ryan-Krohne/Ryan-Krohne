@@ -38,6 +38,9 @@ Reach me at: rkrohnesoccer@gmail.com
 
 <details>
  <summary><h3>👨‍💻 Ryan's Coding Journey (Click here to expand!)</h3></summary>
-   I started my coding journey in my teens when I was introduced to scratch. At the time I thought it was cool but didn't make a connection to how coding impacted the real world. When I first got in to college, I naively decided to pursue a degree in Information Technology, as I was completely unaware of what I wanted to do with my life. Fortunately, college was when I was re-introduced to software development. Currently, I find myself highly motivated by considering the difference I make in the real world - something that's hard to see if you only think of software development as working on stories and completing pull requests.
+  Hi! Thanks for making it this far!<br><br>
+   I first touched coding in my early teens when I was introduced to scratch, but I eventually lost interested. In my early teens, I changed the world (or so I thought) by deleting the search bar from google. Messing around with developer tools at a young age was a lot of fun, however I never made a connection to how coding impacted the real world.
+  
+  <br><br>When I first got in to college, I naively decided to pursue a degree in Information Technology, as I was completely unaware of what I wanted to do with my life. Fortunately, college was when I was re-introduced to software development. Currently, I find myself highly motivated by considering the difference I make in the real world - something that's hard to see if you only think of software development as working on stories and completing pull requests.
  
 </details>
