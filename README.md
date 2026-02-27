@@ -33,6 +33,5 @@ Software engineer with a background in Information Technology. I work across ful
 <details>
   <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   <br>
-  I first got into coding in my early teens, mostly messing around with browser developer tools. I didn't make much of it at the time. When I started college, I picked up software development more seriously and it stuck. I'm most interested in work that has a clear, practical impact.
-  
+  I first got into coding in my early teens, mostly messing around with browser developer tools. I didn't make much of it at the time. When I started college, I picked up software development more seriously and it stuck. Since then I've had the chance to work across a few different companies building monitoring platforms, writing test suites, improving frontend performance, and shipping real features in production environments. Right now I'm working on a YouTube summarizer that uses AI to give you the key points of any video.
 </details>
