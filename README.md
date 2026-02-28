@@ -1,8 +1,10 @@
-# 🏄‍♂️ <a href="https://www.linkedin.com/in/ryankrohne">Ryan Krohne</a> &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryankrohne)
+# 🏄‍♂️ Ryan Krohne &nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryankrohne)
 
 <img align="right" alt="Developer GIF" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="380" height="296" />
 
 Software engineer with a background in Information Technology. I work across full-stack development, data structures and algorithms, and system design.
+
+I grew up across 6 countries, speak 4 languages, and love skiing and keeping up with the latest in tech.
 
 📬 **Email:** [krohneryan@gmail.com](mailto:krohneryan@gmail.com)
 📄 **Resume:** [View Here](https://drive.google.com/file/d/1wnHY91iXT-q8H-lxpgGn91DFFpammdYS/view?usp=sharing)
